@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_list/data/dummy_item.dart';
-import 'package:shopping_list/model/grocery_item.dart';
+
 import 'package:shopping_list/widget/grocery_list.dart';
 
 void main() {
